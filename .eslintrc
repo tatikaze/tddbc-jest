@@ -1,0 +1,21 @@
+{
+    "parser": "@typescript-eslint/parser",
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "globals": {
+        "test": true,
+        "expect": true
+    },
+    "rules": {
+        "indent": "off",
+        "quotes": "off",
+        "semi": "off",
+        "space-before-function-paren": "off"
+    },
+    "parserOptions": {
+        "project": ["./tsconfig.json"]
+    },
+    "plugins": ["@typescript-eslint"]
+}
