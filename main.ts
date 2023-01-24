@@ -1,4 +1,4 @@
-import Sample from "./lib/sample";
+import { Range } from "./lib/range";
 
-const sample = new Sample(console.log);
-sample.say();
+const range = new Range(3, 7);
+range.toString();
