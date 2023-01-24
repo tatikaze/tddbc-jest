@@ -1,6 +1,8 @@
 # TDDBC for TypeScript + Jest with Node.js
 
-これは、TDDBC の TypeScript + Jest 向けプロジェクトです。
+TDDBC研修の最終成果物
+
+https://gist.github.com/twada/df6bf4b2d1828919f778cac705cd2ea8
 
 ## Documentation
 
